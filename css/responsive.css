@@ -1,0 +1,175 @@
+/*tablets */
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    h1 {
+        font-size: 50px !important;
+    }
+
+    h2 {
+        font-size: 25px;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+
+    h4 {
+        font-size: 20px;
+    }
+
+    h5 {
+        font-size: 16px;
+    }
+
+    h6 {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+header{
+    height: 600px !important;
+}
+#slide{
+    padding-left: 5%;
+}
+.box-feature{
+    margin-top: 15px;
+}
+.box-feature-two{
+    margin-top: -30px !important;
+}
+#section-three{
+    padding-bottom: 30px;
+}
+#section-three img{
+    margin: 20px 0 0;
+}
+.h2-two{
+    margin-top: 20px;
+}
+#testimonials{
+    padding: 30px 0;
+}
+#testimonials h2{
+    margin-top: 20px;
+}
+#testimonials img{
+    margin-top: 30px;
+}
+#call-to-action h1{
+    font-size: 28px !important;
+}
+#call-to-action button{
+    margin-top: 20px;
+}
+}
+
+@media only screen and (max-width: 767px) {
+
+}
+
+/*phone*/
+
+@media only screen and (min-width: 360px) and (max-width: 640px) {
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+
+    h1 {
+        font-size: 25px !important;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+    h5 {
+        font-size: 16px;
+    }
+
+    h6 {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    .navbar-header button{
+        background: gray;
+        margin-top: -2px;
+    }
+    .navbar-header button span{
+        background: white;
+    }
+    #top-header{
+        padding: 0 10px;
+    }
+    #top-header p span{
+        margin: 0;
+    }
+    header{
+        min-height: 400px !important;
+    }
+    #slide{
+        padding-left: 3%;
+    }
+    .box-feature{
+        margin-top: 15px;
+    }
+    .box-feature-two{
+        margin-top: -30px !important;
+    }
+    #section-three{
+        padding-bottom: 30px;
+    }
+    #section-three img{
+        margin: 15px 0 0;
+        height: 200px;
+    }
+    .h2-two{
+        margin-top: 20px;
+    }
+    #testimonials{
+        padding: 30px 0;
+
+    }
+    #testimonials img{
+        height: 250px;
+    }
+    #testimonials h2{
+        margin-top: 20px;
+    }
+    #testimonials img{
+        margin-top: 30px;
+    }
+    #call-to-action h1{
+        font-size: 28px !important;
+    }
+    #call-to-action button{
+        margin-top: 20px;
+    }
+    .footer{
+      text-align: center;
+    }
+    .input-group{
+        width: 85%;
+        margin: 0 auto;
+    }
+    .copy{
+        margin-top: -18px !important;
+    }
+
+}
